@@ -5,25 +5,17 @@ This repository contains selected projects in Machine Learning, Statistics, Deep
 My background combines mathematics, statistics, and machine learning, with a current focus on financial mathematics and data-driven applications in finance.
 
 ## Topics covered
-- Natural Language Processing (NLP)
-- Machine Learning & Predictive Modeling
-- Deep Learning (Computer Vision, Time Series)
-- Financial Mathematics (portfolio theory, Monte Carlo methods)
-- Statistical Analysis
+- Deep Learning : Ranking model
+- Financial Mathematics : pricing call barrier option with levy process and monte carlo simulation
+
 
 ## Projects
 
-### NLP
-- Sentiment analysis of financial text data
-
-### Machine Learning
-- Classification models on structured datasets
+### Deep learning:
+- Ranking model for stock return for a recommendation system in finance
 
 ### Financial Mathematics
 - Monte Carlo simulation for option pricing
-
-### Statistics
-- Regression analysis on real-world datasets
 
 ## Tools used
 Python, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Statsmodels
